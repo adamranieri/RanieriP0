@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.ranieri.utiltests.ConnectionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-18T19:32:19" hostname="REV-ADAMRANIERI" time="0.693">
+  <properties/>
+  <testcase name="generates_connection()" classname="dev.ranieri.utiltests.ConnectionTest" time="0.693"/>
+  <system-out><![CDATA[configsetroot
+USERDOMAIN_ROAMINGPROFILE
+LOCALAPPDATA
+PROCESSOR_LEVEL
+USERDOMAIN
+greeting
+LOGONSERVER
+JAVA_HOME
+SESSIONNAME
+ALLUSERSPROFILE
+PROCESSOR_ARCHITECTURE
+PSModulePath
+SystemDrive
+OneDrive
+APPDATA
+USERNAME
+ChocolateyInstall
+ProgramFiles(x86)
+CommonProgramFiles
+Path
+PATHEXT
+DriverData
+OS
+PORT
+COMPUTERNAME
+UIPATH_LANGUAGE
+PROCESSOR_REVISION
+CLASSPATH
+CommonProgramW6432
+ComSpec
+CONN_DETAILS
+ProgramData
+ProgramW6432
+HOMEPATH
+SystemRoot
+TEMP
+HOMEDRIVE
+PROCESSOR_IDENTIFIER
+USERPROFILE
+TMP
+CommonProgramFiles(x86)
+ProgramFiles
+PUBLIC
+NUMBER_OF_PROCESSORS
+UIPATH_USER_SERVICE_PATH
+windir
+=::
+IDEA_INITIAL_DIRECTORY
+org.postgresql.jdbc.PgConnection@68230542
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

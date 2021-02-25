@@ -1,0 +1,8 @@
+dev/ranieri/servicetests/SearchByTitleTests.java
+ dev.ranieri.servicetests.SearchByTitleTests
+dev/ranieri/servicetests/BookServiceTests.java
+ dev.ranieri.servicetests.BookServiceTests
+dev/ranieri/daotests/BookDaoTest.java
+ dev.ranieri.daotests.BookDaoTest
+dev/ranieri/utiltests/ConnectionTest.java
+ dev.ranieri.utiltests.ConnectionTest
