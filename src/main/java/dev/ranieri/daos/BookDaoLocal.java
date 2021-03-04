@@ -10,7 +10,7 @@ import java.util.Set;
 // Local in memory "database". It will save objects in memeory but if you shut off the application it will get deleted
 public class BookDaoLocal implements  BookDAO{
 
-    private static Map<Integer,Book> bookTable = new HashMap<Integer,Book>();
+    private static Map<Integer,Book> bookTable = new HashMap<>();
     private static int idMaker = 0;
 
     @Override
@@ -22,7 +22,7 @@ public class BookDaoLocal implements  BookDAO{
 
     @Override
     public Set<Book> getAllBooks() {
-        Set<Book> allBooks = new HashSet<Book>(bookTable.values());
+        Set<Book> allBooks = new HashSet<>(bookTable.values());
         return allBooks;
     }
 
